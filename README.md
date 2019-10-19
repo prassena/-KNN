@@ -12,4 +12,4 @@ Metric used tofind best model was AUC (Area under ROC).
 
 # Facing error while loading IPYNB "Sorry, something went wrong. Reload?"
 
-Go to this url https://nbviewer.jupyter.org/ and copy paste the following link " https://github.com/prassena/-KNN/blob/master/KNN.ipynb " in the text box seen
+please click the following link https://nbviewer.jupyter.org/github/prassena/-KNN/blob/master/KNN.ipynb
