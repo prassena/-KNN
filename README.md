@@ -9,3 +9,7 @@ The data has been prerocessed like removel of duplicate ,stop words, special cha
 The processed Data have been analysed - univarient analysis to know more about the data .
 
 Metric used tofind best model was AUC (Area under ROC).
+
+# Facing error while loading IPYNB "Sorry, something went wrong. Reload?"
+
+Go to this url https://nbviewer.jupyter.org/ and copy paste the following link "https://github.com/prassena/-KNN/blob/master/KNN.ipynb" 
