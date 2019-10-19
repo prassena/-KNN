@@ -2,7 +2,7 @@ K-Nearest Neighbors (KNN) is one of the simplest algorithms used in Machine Lear
 
 The ipynb shows the implimentation of KNN on DonorsChoose Dataset and how to tune Hyper paramater (K value) in K-nearest Neighbors in order to get good model.
 
-The data has been prerocessed like removel of duplicate ,stop words removel,  stemming , removel of special character and hyper txt links etc 
+The data has been prerocessed like removel of duplicate ,stop words, special character and hyper txt links etc 
 
 The processed Data have been analysed - univarient analysis to know more about the data .
 
